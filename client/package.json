@@ -1,5 +1,8 @@
 {
   "name": "client",
+  "engines": 
+  {"node":"19.9.0"},
+  ["npm": "9.6.3"],
   "version": "0.1.0",
   "private": true,
   "proxy": "http://localhost:3000",
