@@ -13,10 +13,18 @@
   "author": "Beena Robert",
   "license": "ISC",
   "devDependencies": {
-    "concurrently": "^5.1.0"
+    "concurrently": "^5.2.0"
   },
   "dependencies": {
     "apollo-client": "^2.6.10",
     "graphql": "^15.5.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Beenarob/book-search-br.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Beenarob/book-search-br/issues"
+  },
+  "homepage": "https://github.com/Beenarob/book-search-br#readme"
 }
